@@ -11,13 +11,19 @@ header{
 
 nav{
   background-color:#f7d1d5;
+  display: flex;
+  justify-content: space-around;
+  border-radius: 25px;
+  margin-top: 20px;
 }
 
 .seccion1{
   background-color:#33FF99;
+  border-radius: 25px;
 }
 .titulo2{
   background-color: #9900FF;
+   border-radius: 25px;
 }
 .titulo3{
   background-color: #d98880 ;
